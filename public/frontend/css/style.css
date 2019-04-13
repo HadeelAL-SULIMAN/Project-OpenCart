@@ -1,0 +1,33 @@
+.form-horizontal{
+  border: 3px solid #f1f1f1;
+  margin-top: 10px;
+  box-shadow: 2px 2px 2px 2px #e8e7e4;
+}
+.input-large{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.input-prepend{
+  padding: 10px;
+  width: 100%;
+}
+.input-large{
+  width: 50%;
+}
+.col-lg-8{
+  margin-top: 20px;
+}
+.button-login{
+    padding: 5px;
+}
+.btn{
+    width: 49%;
+    color: #ffff;
+}
+a{
+  color:#337ab7;
+}

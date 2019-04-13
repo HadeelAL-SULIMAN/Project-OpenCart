@@ -1,0 +1,50 @@
+.name{
+    color:white;
+}
+#menu {
+    margin-bottom: 25px;
+}
+
+#menu, #menu ul, #menu li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+    color: white;
+}
+#dash{
+	background-color: black;
+}
+#contant{
+	margin-top: 20px;
+}
+.fa-user{
+	color: white;
+}
+.fa-user-friends{
+	color: white;
+}
+#menu > li > a > i {
+    font-size: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+#menu > li > a {
+    color: #ffff;
+    padding-left: 20px;
+    font-size: 20px;
+    border-bottom: 0px solid #585858;
+}
+#menu li a {
+    text-decoration: none;
+    display: block;
+    padding: 30px;
+    cursor: pointer;
+    border-bottom: 0px solid #515151;
+}
+#collapse1 li a{
+    color: #ffff;
+    padding-left: 20px;
+    font-size: 20px;
+    border-bottom: 0px solid #585858;
+}

@@ -1,0 +1,43 @@
+.add-product-layout {
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 100%;
+}
+.image-xlargel{
+	margin: 50px;
+}
+.input-xlarge{
+	border:none;
+    border-bottom: 1px solid ##d2cece;
+    margin: 50px;
+    width: 60%;
+}
+#selectError3{
+	border:none;
+    border-bottom: 1px solid black;
+    margin: 50px;
+    width: 60%;
+}
+#add{
+	border-radius:12%;
+    background-color: orange;
+    color: #ffff;
+    width: 100%;
+    padding: 10px;
+    margin: 60px;
+}
+input[type='file']{
+  color:blue;
+  font-size:25px;
+}
+#uploadimage{
+	border-radius:12%;
+    background-color: #757574;
+    color: #ffff;
+    width: 100%;
+    padding: 10px;
+    margin: 60px;
+
+}
